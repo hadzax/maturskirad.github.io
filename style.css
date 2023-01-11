@@ -1,0 +1,45 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+@font-face {
+    font-family: firstfont;
+    src: url('SFProDisplay-Bold.ttf');
+  }
+
+body{
+  font-family: firstfont;
+}
+
+p{
+  color: #624F82;
+}
+
+#home{
+padding-top: 200px;
+padding-bottom: 280px;
+background-image: url(slikebackground.jpg); 
+background-repeat: no-repeat;
+  background-size: 1500px;
+
+}
+
+#pricing{
+    padding-top: 140px;
+    max-width: 750px;
+}
+
+#pricingstyle{
+    max-width: 950px;
+    padding-top: 45px;
+    padding-bottom: 140px;
+}
+
+.socialikonice{
+    max-width: 10px;
+    max-height: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
